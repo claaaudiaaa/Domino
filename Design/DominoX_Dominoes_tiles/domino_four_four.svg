@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="52" height="101" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata>image/svg+xmlOpenclipart</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="103" width="54" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(90 26.62398529052734,50.62399291992188) matrix(0,0.1,-0.1,0,337.37,493.74) " id="g3533">
+   <g id="layer1-127">
+    <rect stroke-linejoin="round" fill-rule="evenodd" stroke="#000000" stroke-width="27.517" fill="#ffffff" x="-4667.399882" y="2621.220091" width="472.48" height="972.48" ry="50" rx="50" id="rect1872-28"/>
+    <path stroke="#000000" stroke-width="10px" fill="none" d="m-4636.158691,3107.459229l410,0" id="path15666-71"/>
+   </g>
+   <g id="layer2-34">
+    <circle fill="#000000" r="50" cx="-4571.158882" cy="3011.099091" id="circle240"/>
+    <circle fill="#000000" r="50" cx="-4571.158882" cy="2723.099091" id="circle242"/>
+    <circle fill="#000000" r="50" cx="-4291.158882" cy="3011.099091" id="circle244"/>
+    <circle fill="#000000" r="50" cx="-4291.158882" cy="2723.099091" id="circle246"/>
+    <circle fill="#000000" r="50" cx="-4571.158882" cy="3491.099091" id="circle248"/>
+    <circle fill="#000000" r="50" cx="-4571.158882" cy="3203.099091" id="circle250"/>
+    <circle fill="#000000" r="50" cx="-4291.158882" cy="3491.099091" id="circle252"/>
+    <circle fill="#000000" r="50" cx="-4291.158882" cy="3203.099091" id="circle254"/>
+   </g>
+  </g>
+ </g>
+</svg>

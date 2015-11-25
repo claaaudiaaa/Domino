@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Signup</title>
+
+<link href="../css/genericStyles.css" rel="stylesheet" type="text/css" />
+<script src = "https://code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+
+<body>
+<div class="mainContainer">
+ <div class="backgroundImage">
+	<div class="menuBox"></div>
+  </div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+						   
+ $(window).resize(function(){
+
+  $('.menuBox').css({
+   position:'absolute',
+   left: ($(window).width() 
+     - $('.menuBox').outerWidth())/2,
+   top: ($(window).height() 
+     - $('.menuBox').outerHeight())/2
+  });
+		
+ });
+ 
+ // To initially run the function:
+ $(window).resize();
+
+});
+</script>
+</body>
+</html>
